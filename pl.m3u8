@@ -1,157 +1,28 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",ОТР HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20018/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый канал FHD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/2402/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый канал HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/204/index.m3u8
-#EXTINF:0 tvg-rec="7",Первый канал
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/127/index.m3u8
-#EXTINF:0 tvg-rec="3",Первый канал +2
+#EXTINF:0 tvg-rec="3",Первый канал
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/714/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +4
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6021/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +4 HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15117/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +6
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6037/index.m3u8
-#EXTINF:0 tvg-rec="0",Первый канал +8
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6050/index.m3u8
-#EXTINF:0 tvg-rec="3",Россия 1 FHD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/2409/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия 1 HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/205/index.m3u8
-#EXTINF:0 tvg-rec="7",Россия 1
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/504/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +2
+#EXTINF:0 tvg-rec="0",Россия 1
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6011/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +4
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6022/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +6
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6038/index.m3u8
-#EXTINF:0 tvg-rec="0",Россия 1 +8
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6051/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/213/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ Хит HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/16062/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ Мир
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/14035/index.m3u8
-#EXTINF:0 tvg-rec="7",НТВ
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/501/index.m3u8
-#EXTINF:0 tvg-rec="3",НТВ +2
+#EXTINF:0 tvg-rec="3",НТВ
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/713/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ +4
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6024/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ +7
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6039/index.m3u8
-#EXTINF:0 tvg-rec="0",НТВ +8
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6053/index.m3u8
-#EXTINF:0 tvg-rec="7",ТВЦ
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/520/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВЦ +2
+#EXTINF:0 tvg-rec="3",ТВЦ
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/716/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВЦ +4
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6027/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВЦ +7
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6041/index.m3u8
-#EXTINF:0 tvg-rec="0",ТВЦ +8
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6056/index.m3u8
-#EXTINF:0 tvg-rec="7",Пятый канал
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/112/index.m3u8
-#EXTINF:0 tvg-rec="3",Пятый канал +2
+#EXTINF:0 tvg-rec="3",Пятый канал
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/746/index.m3u8
-#EXTINF:0 tvg-rec="0",Пятый канал +4
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6025/index.m3u8
-#EXTINF:0 tvg-rec="0",Пятый канал +7
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6040/index.m3u8
-#EXTINF:0 tvg-rec="0",Пятый канал +8
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6054/index.m3u8
-#EXTINF:0 tvg-rec="0",Мир HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15119/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ FHD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/2417/index.m3u8
-#EXTINF:0 tvg-rec="7",ТНТ HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/237/index.m3u8
-#EXTINF:0 tvg-rec="7",ТНТ
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/502/index.m3u8
-#EXTINF:0 tvg-rec="3",ТНТ +2
+#EXTINF:0 tvg-rec="3",ТНТ
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/717/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ +4
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6035/index.m3u8
-#EXTINF:0 tvg-rec="0",ТНТ +7
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6049/index.m3u8
-#EXTINF:0 tvg-rec="7",СТС
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/506/index.m3u8
-#EXTINF:0 tvg-rec="0",СТС +2
+#EXTINF:0 tvg-rec="0",СТС
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6015/index.m3u8
-#EXTINF:0 tvg-rec="0",СТС +4
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6029/index.m3u8
-#EXTINF:0 tvg-rec="0",СТС +7
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6043/index.m3u8
-#EXTINF:0 tvg-rec="7",РЕН ТВ HD
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/2024/index.m3u8
-#EXTINF:0 tvg-rec="7",РЕН ТВ
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/128/index.m3u8
-#EXTINF:0 tvg-rec="3",РЕН ТВ +2
+#EXTINF:0 tvg-rec="3",РЕН ТВ
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/747/index.m3u8
-#EXTINF:0 tvg-rec="0",РЕН ТВ +4
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6028/index.m3u8
-#EXTINF:0 tvg-rec="0",РЕН ТВ +7
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6042/index.m3u8
-#EXTINF:0 tvg-rec="7",Мир
-#EXTGRP:Общие
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/113/index.m3u8
 #EXTINF:0 tvg-rec="0",Мир +2
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6019/index.m3u8
@@ -905,6 +776,14 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/16023/index.m3u8
 #EXTINF:0 tvg-rec="0",Дождь HD
 #EXTGRP:Общие
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20083/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-rec="3",VF Сериалы Турции
 #EXTGRP:Кино
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/9123/index.m3u8
@@ -3095,6 +2974,13 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31722/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV Коломбо
 #EXTGRP:Кино
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31713/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:0 tvg-rec="0",MTV 80s
 #EXTGRP:Музыка
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31558/index.m3u8
@@ -3620,6 +3506,11 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20171/index.m3u8
 #EXTINF:0 tvg-rec="0",VB MTV Old Россия HD
 #EXTGRP:Музыка
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20174/index.m3u8
+
+
+
+
+
 #EXTINF:0 tvg-rec="0",BOX History 4K HDR
 #EXTGRP:Познавательные
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31546/index.m3u8
@@ -4328,6 +4219,11 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20143/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Docu HD
 #EXTGRP:Познавательные
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/20153/index.m3u8
+
+
+
+
+
 #EXTINF:0 tvg-rec="0",Драйв HD
 #EXTGRP:Развлекательные
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/9068/index.m3u8
@@ -4541,6 +4437,11 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/16089/index.m3u8
 #EXTINF:0 tvg-rec="0",Kinoshka Christmas HD
 #EXTGRP:Развлекательные
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/16092/index.m3u8
+
+
+
+
+
 #EXTINF:0 tvg-rec="0",A&E CA
 #EXTGRP:Канада | Canada
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6419/index.m3u8
@@ -4853,6 +4754,11 @@ http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6538/index.m3u8
 #EXTINF:0 tvg-rec="0",Adult Swim HD CA
 #EXTGRP:Канада | Canada
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6540/index.m3u8
+
+
+
+
+
 #EXTINF:0 tvg-rec="3",Food Network HD US
 #EXTGRP:США | USA
 http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1107/index.m3u8
