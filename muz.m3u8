@@ -1,0 +1,264 @@
+#EXTINF:-1 ,City TV
+https://tv.city.bg/play/tshls/citytv/2.m3u8
+#EXTINF:-1 ,SKY Folk TV
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1 ,Banovina TV
+http://video.radio-banovina.hr:1935/live/myStream/chunklist_w1164976177.m3u8
+#EXTINF:-1 ,OF-TV
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 ,AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 ,Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 ,Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 ,Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 ,XITE 80s Flashback
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB320000647
+#EXTINF:-1 ,XITE 90s Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB3200007AK
+#EXTINF:-1 ,XITE Celebrates
+https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
+#EXTINF:-1 ,XITE Classic Country
+https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300011UT
+#EXTINF:-1 ,XITE Country Today
+https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
+#EXTINF:-1 ,XITE Hits
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300004RH
+#EXTINF:-1 ,XITE Icons
+https://d13bxksjj2abuy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yxuum05f6hop9/XITE_Icons.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300005EX
+#EXTINF:-1 ,XITE Just Chill
+https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300003JZ
+#EXTINF:-1 ,XITE Nuevo Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
+#EXTINF:-1 ,XITE Only Love
+https://d3a9vrmy2tps6h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wvkbtotxbhlwq/XITE_Only_Love.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300008DG
+#EXTINF:-1 ,XITE R&B Classic Jams
+https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD330000948
+#EXTINF:-1 ,XITE Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
+#EXTINF:-1 ,XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
+#EXTINF:-1 ,Vevo 2010s
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD120002431
+#EXTINF:-1 ,Vevo 2K
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB4400015F5
+#EXTINF:-1 ,Vevo Country
+https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-apxt8ie33sx6d/Vevo_Country.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600001RQ
+#EXTINF:-1 ,Vevo Hip-Hop
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600002EK
+#EXTINF:-1 ,Vevo Holiday
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD1200008GL
+#EXTINF:-1 ,Vevo Latino
+https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600015GF
+#EXTINF:-1 ,Vevo Pop
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3600008WY
+#EXTINF:-1 ,Vevo R&B
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBC3900009K5
+#EXTINF:-1 ,Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000145P
+#EXTINF:-1 ,NEW KPOP
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 ,K-POP by CJ ENM
+https://d3kmrn2mstrnk5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ppcp3lxg7oer/f4acc9ba_daae_4ed0_b836_32126cead919/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US39000038W
+#EXTINF:-1 ,Vevo '70s
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300011KQ
+#EXTINF:-1 ,Vevo '80s
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD300012YC
+#EXTINF:-1 ,Vevo '90s
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3000133M
+#EXTINF:-1 ,Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,88 STEREO TV
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 ,Radio Love FM
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+#EXTINF:-1 ,Radio Ibiza TV
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/chunklist_w1014685428.m3u8
+#EXTINF:-1 ,Vuemme TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 ,Super Six
+https://5db313b643fd8.streamlock.net:443/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 ,Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 ,Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 ,Kiss Kiss Napoli HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 ,Европа Плюс ТВ
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
+#EXTINF:-1 ,Afrobeats TV
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 ,Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 ,ÓČKO HITY
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 ,Company TV
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist_slita.m3u8
+#EXTINF:-1 ,Zerouno TV
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 ,Baraza TV Hits
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,Kayhan Afghan
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w523424868.m3u8
+#EXTINF:-1 ,On Air TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/chunklist_w1284330867.m3u8
+#EXTINF:-1 ,Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 ,Persiana Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 ,PERSIANA SONNATI TV
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 ,4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 ,Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 ,PowerTürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 ,Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 ,Power Love
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 ,PowerTürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 ,PowerTürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 ,PowerTürk Akustik
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 ,Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,PMC Royale
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 ,Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 ,Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 ,Muzzik Rock&Roll
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 ,Muzzik OKK
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 ,Muzzik Vision HD
+http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 ,Muzzik Jeka
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 ,Muzzik Worldwide
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 ,Muzzik TV
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 ,Muzzik Sense
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 ,Muzzik Flashback
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 ,Muzzik Electro
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 ,Muzzik HipHop
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 ,Muzzik Mediteraneo
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 ,Retro TV
+https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2024688549.m3u8
+#EXTINF:-1 ,Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
+#EXTINF:-1 ,V2Beat TV Live
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 ,inRating TV
+https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
+#EXTINF:-1 ,VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 ,Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 ,DANCE TV TECHNO
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 ,Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 ,House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 ,EDM Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+#EXTINF:-1 ,Downtempo
+https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
+#EXTINF:-1 ,Melodic Tech
+https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
+#EXTINF:-1 ,Minimal / Deep Tech
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+#EXTINF:-1 ,QMUSIC
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 ,NRG 91 Music HD
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 ,RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 ,Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 ,Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+#EXTINF:-1 ,Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 ,Meidan TV HD
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 ,TRANCE IS STAR RADIO
+https://myradio24.org/tisradio_video.m3u8
+#EXTINF:-1 ,30A MUSIC TV
+https://30a-tv.com/feeds/720p/6.m3u8
+#EXTINF:-1 ,Radio Kemonia
+https://skyradiostream.com/1935/playlist.m3u8
+#EXTINF:-1 ,COMPANY TV HD
+https://5929b138b139d.streamlock.net/CompanyTV/livestream/playlist.m3u8
+#EXTINF:-1 ,RADIO ZETA HD TV
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/chunklist.m3u8
+#EXTINF:-1 ,RB24 TV RADIO BUSSOLA 24
+https://tv.radiobussola.it/hls/stream/stream1200.m3u8
+#EXTINF:-1 ,RADIO STUDIO ONE VISUAL TV
+https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
+#EXTINF:-1 ,RADIO MILAZZO TV
+https://5926fc9c7c5b2.streamlock.net/9318/9318/chunklist.m3u8
